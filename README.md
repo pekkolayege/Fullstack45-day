@@ -155,10 +155,4 @@ fullstack45-roadmap/
 
 Gün numarası, kullandığın sürümler, yeniden üretme adımları, beklenen sonuç ve hata mesajını paylaş. Parola veya erişim anahtarı gönderme.
 
-## Hazırlayan ve ilham
 
-**Ege Pekkolay** tarafından hazırlanan eğitim içeriği.
-
-Yol haritası sunumu için [developer-roadmap](https://github.com/nilbuild/developer-roadmap) deposunun bağlantılı rehber yaklaşımı referans alınmıştır. Ders metinleri ve örnekler bu çalışma için hazırlanmıştır; referans proje ile resmî bir bağlantı yoktur.
-
-Lisans koşulları henüz belirlenmemiştir. Açık kaynak lisansı seçilene kadar yeniden dağıtım ve kullanım izinleri için hazırlayanla iletişime geçilmelidir.
