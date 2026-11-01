@@ -2,7 +2,7 @@
 
 # FULLSTACK45
 
-### Türkçe Full-Stack Web Geliştirici Yol Haritası
+### Full-Stack Web Geliştirici Yol Haritası
 
 **45 günlük rota · 45 ayrı klasör · Açıklamalı örnekler · Uygulamalı öğrenme**
 
